@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #008000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 200px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px #226322(0, 0, 0, 0.1);
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  form input[type="submit"] {
+    background-color: #008000;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #008000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
